@@ -316,6 +316,7 @@
      .pd{
       height:300px;
       margin: auto;
+      overflow:auto;
      
      }
      .pd1{
